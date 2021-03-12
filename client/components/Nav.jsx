@@ -50,7 +50,7 @@ const Nav = (props) => {
                       <span className="navbar-item">
                         <Link to="/admin" className="button is-white is-outlined">
                           <span className="icon">
-                            <i className="fa fa-home"></i>
+                            <i className="fas fa-user-lock"></i>
                           </span>
                           <span>ADMIN</span>
                         </Link>
